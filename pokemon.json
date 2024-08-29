@@ -1,0 +1,182 @@
+{
+  "pokemon": [
+    {
+      "name": "Bulbasaur",
+      "type": "Grass/Poison",
+      "image": "https://img.pokemondb.net/artwork/bulbasaur.jpg",
+      "evolutions": [
+        {
+          "name": "Ivysaur",
+          "type": "Grass/Poison",
+          "image": "https://img.pokemondb.net/artwork/ivysaur.jpg"
+        },
+        {
+          "name": "Venusaur",
+          "type": "Grass/Poison",
+          "image": "https://img.pokemondb.net/artwork/venusaur.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Charmander",
+      "type": "Fire",
+      "image": "https://img.pokemondb.net/artwork/charmander.jpg",
+      "evolutions": [
+        {
+          "name": "Charmeleon",
+          "type": "Fire",
+          "image": "https://img.pokemondb.net/artwork/charmeleon.jpg"
+        },
+        {
+          "name": "Charizard",
+          "type": "Fire/Flying",
+          "image": "https://img.pokemondb.net/artwork/charizard.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Squirtle",
+      "type": "Water",
+      "image": "https://img.pokemondb.net/artwork/squirtle.jpg",
+      "evolutions": [
+        {
+          "name": "Wartortle",
+          "type": "Water",
+          "image": "https://img.pokemondb.net/artwork/wartortle.jpg"
+        },
+        {
+          "name": "Blastoise",
+          "type": "Water",
+          "image": "https://img.pokemondb.net/artwork/blastoise.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Pikachu",
+      "type": "Electric",
+      "image": "https://img.pokemondb.net/artwork/pikachu.jpg",
+      "evolutions": [
+        {
+          "name": "Raichu",
+          "type": "Electric",
+          "image": "https://img.pokemondb.net/artwork/raichu.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jigglypuff",
+      "type": "Normal/Fairy",
+      "image": "https://img.pokemondb.net/artwork/jigglypuff.jpg",
+      "evolutions": [
+        {
+          "name": "Wigglytuff",
+          "type": "Normal/Fairy",
+          "image": "https://img.pokemondb.net/artwork/wigglytuff.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Gengar",
+      "type": "Ghost/Poison",
+      "image": "https://img.pokemondb.net/artwork/gengar.jpg",
+      "evolutions": []
+    },
+    {
+      "name": "Machop",
+      "type": "Fighting",
+      "image": "https://img.pokemondb.net/artwork/machop.jpg",
+      "evolutions": [
+        {
+          "name": "Machoke",
+          "type": "Fighting",
+          "image": "https://img.pokemondb.net/artwork/machoke.jpg"
+        },
+        {
+          "name": "Machamp",
+          "type": "Fighting",
+          "image": "https://img.pokemondb.net/artwork/machamp.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Vulpix",
+      "type": "Fire",
+      "image": "https://img.pokemondb.net/artwork/vulpix.jpg",
+      "evolutions": [
+        {
+          "name": "Ninetales",
+          "type": "Fire",
+          "image": "https://img.pokemondb.net/artwork/ninetales.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Geodude",
+      "type": "Rock/Ground",
+      "image": "https://img.pokemondb.net/artwork/geodude.jpg",
+      "evolutions": [
+        {
+          "name": "Graveler",
+          "type": "Rock/Ground",
+          "image": "https://img.pokemondb.net/artwork/graveler.jpg"
+        },
+        {
+          "name": "Golem",
+          "type": "Rock/Ground",
+          "image": "https://img.pokemondb.net/artwork/golem.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Abra",
+      "type": "Psychic",
+      "image": "https://img.pokemondb.net/artwork/abra.jpg",
+      "evolutions": [
+        {
+          "name": "Kadabra",
+          "type": "Psychic",
+          "image": "https://img.pokemondb.net/artwork/kadabra.jpg"
+        },
+        {
+          "name": "Alakazam",
+          "type": "Psychic",
+          "image": "https://img.pokemondb.net/artwork/alakazam.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Ditto",
+      "type": "Normal",
+      "image": "https://img.pokemondb.net/artwork/ditto.jpg",
+      "evolutions": []
+    },
+    {
+      "name": "Eevee",
+      "type": "Normal",
+      "image": "https://img.pokemondb.net/artwork/eevee.jpg",
+      "evolutions": [
+        {
+          "name": "Vaporeon",
+          "type": "Water",
+          "image": "https://img.pokemondb.net/artwork/vaporeon.jpg"
+        },
+        {
+          "name": "Jolteon",
+          "type": "Electric",
+          "image": "https://img.pokemondb.net/artwork/jolteon.jpg"
+        },
+        {
+          "name": "Flareon",
+          "type": "Fire",
+          "image": "https://img.pokemondb.net/artwork/flareon.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Snorlax",
+      "type": "Normal",
+      "image": "https://img.pokemondb.net/artwork/snorlax.jpg",
+      "evolutions": []
+    }
+  ]
+}
